@@ -1,0 +1,4 @@
+The largest integer in the sequence is 0
+The largest even integer in the sequence is 0
+The count of positive integers in the sequence is 0
+The sum of all integers is 0
